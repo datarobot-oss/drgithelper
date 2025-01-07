@@ -1,2 +1,2 @@
-# oss-template-repo
-Template Repository for DR Open Source Projects
+# drgithelper
+Git credentials helper binary for Notebooks
