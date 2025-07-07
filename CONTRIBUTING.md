@@ -4,7 +4,7 @@ Guidelines for developing and contributing to this project.
 
 ## List of project maintainers
 
-- [Your Name](Your GitHub User URL)
+- DataRobot Developers dev@datarobot.com
 
 
 ## Opening new issues
