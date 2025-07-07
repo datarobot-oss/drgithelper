@@ -1,6 +1,6 @@
 # drgithelper
 
-Git credentials helper binary for DataRobot Notebooks & Codespaces
+Git credentials helper binary for DataRobot notebooks & Codespaces
 
 ## Environment Variable Configuration
 
