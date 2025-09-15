@@ -14,4 +14,4 @@ These are environment variable values respected by the binary:
  - `GITHELPER_CONFIG_URLS` (default: `true`) - Setup git to redirect SSH to HTTPS
  - `GITHELPER_CONFIG_GITIGNORE` (default: `true`) - Setup global git ignore
  - `GITHELPER_GITIGNORE_PATH` - Global gitignore file. By default its ${HOME}/.drgithelper_gitignore
- - `GITHELPER_GITIGNORE_FILES` (default: `.bash_history`) - Comma separated git ignored files
+ - `GITHELPER_GITIGNORE_FILES` (default: `.bash_history,.datarobot/,.venv/`) - Comma separated git ignored files
